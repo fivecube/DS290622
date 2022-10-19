@@ -1,0 +1,8 @@
+{
+	"products": [
+		{"name":"Iphone 13", "price":100000},
+		{"name":"Macbook Pro","price":220000},
+		{"name":"Sky Bag A1trio","price":4000},
+		{"name":"Nivea Aloe Hydration","price":430}
+	]
+}
